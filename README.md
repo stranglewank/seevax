@@ -3,19 +3,19 @@
 
 ### Specifications
 * CPU
-..* Model: CVAX (DC341)
-..* L1 Cache: 1 KB
-..* L2 Cache: External
-..* Frequency: 11 MHz
-..* Transistors: 180,000
+... Model: CVAX (DC341)
+... L1 Cache: 1 KB
+... L2 Cache: External
+... Frequency: 11 MHz
+... Transistors: 180,000
 * CPU Features
-..* Sixteen 32-bit General Purpose Registers
-..* 181 instructions
-..* 21 addressing modes
-..* 6 data types
+... Sixteen 32-bit General Purpose Registers
+... 181 instructions
+... 21 addressing modes
+... 6 data types
 * Memory Management
-..* 4GB virtual address space
-..* 1GB physical address space
+... 4GB virtual address space
+... 1GB physical address space
 ..* Demand paging
 ..* Memory protection
 ..* 4 privilege modes
